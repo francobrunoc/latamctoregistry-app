@@ -5,8 +5,14 @@ object-assign
 */
 
 /*!
-  * vue-router v3.4.3
+  * vue-router v3.4.2
   * (c) 2020 Evan You
+  * @license MIT
+  */
+
+/*!
+  * vue-scrollto v2.18.2
+  * (c) 2019 Randjelovic Igor
   * @license MIT
   */
 
@@ -57,8 +63,8 @@ object-assign
  */
 
 /*!
- * Vue.js v2.6.12
- * (c) 2014-2020 Evan You
+ * Vue.js v2.6.11
+ * (c) 2014-2019 Evan You
  * Released under the MIT License.
  */
 
@@ -66,12 +72,6 @@ object-assign
  * cookie
  * Copyright(c) 2012-2014 Roman Shtylman
  * Copyright(c) 2015 Douglas Christopher Wilson
- * MIT Licensed
- */
-
-/*!
- * vary
- * Copyright(c) 2014-2017 Douglas Christopher Wilson
  * MIT Licensed
  */
 
@@ -134,6 +134,17 @@ PERFORMANCE OF THIS SOFTWARE.
  * https://github.com/angular/angular/blob/master/packages/compiler/src/shadow_css.ts
  */
 
+/**
+ * [chartjs-plugin-labels]{@link https://github.com/emn178/chartjs-plugin-labels}
+ *
+ * @version 1.1.0
+ * @author Chen, Yi-Cyuan [emn178@gmail.com]
+ * @copyright Chen, Yi-Cyuan 2017-2018
+ * @license MIT
+ */
+
 //! moment.js
+
+//! moment.js language configuration
 
 //! moment.js locale configuration
